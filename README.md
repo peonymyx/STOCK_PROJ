@@ -30,7 +30,6 @@
 ```bash
 $ npm install
 ```
-aa
 
 ## Compile and run the project
 
